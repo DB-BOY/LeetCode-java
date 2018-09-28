@@ -16,11 +16,11 @@ public class SumofTwoIntegers371 {
 //	            b = c ;  
 //	        }
 			System.out.println(System.currentTimeMillis());
-			System.out.println(sum(a,b));
+			System.out.println(cal(a,b));
 			System.out.println(System.currentTimeMillis());
 	}
-	static int sum(int a , int b){
+	static int cal(int a , int b){
 	    if(b==0) return a;
-	    return sum(a^b, (a&b)<<1);
+	    return cal(a^b, (a&b)<<1);
 	}
 }
