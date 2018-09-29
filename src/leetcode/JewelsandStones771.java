@@ -5,22 +5,23 @@ package leetcode;
  */
 public class JewelsandStones771 {
     public static void main(String[] args) {
-        System.out.println(System.nanoTime());
+        long start;
+        System.out.println(start = System.currentTimeMillis());
         String  j = "aA";
         String  s = "aAAbbbbbb";
+//        System.out.println(numJewelsInStones(j,s));
+//        j = "z";
+//        s ="ada";
+//        System.out.println(numJewelsInStones(j,s));
+//        j="";
+//        s="sadasfdasf";
         System.out.println(numJewelsInStones(j,s));
-        System.out.println(System.nanoTime());
-        j = "z";
-        s ="ada";
-        System.out.println(numJewelsInStones(j,s));
-        System.out.println(System.nanoTime());
+
+        System.out.println(System.currentTimeMillis()-start);
     }
 
     public static int numJewelsInStones(String J, String S) {
-        if(J==null|| J.length()<1){
-            return 0;
-        }
-        if(S==null|| S.length()<1){
+        if(J==null||S==null|| S.length()<1){
             return 0;
         }
         char[] ss = S.toCharArray();
