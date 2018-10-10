@@ -2,7 +2,6 @@ package leetcode;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.concurrent.CountDownLatch;
 
 /**
  * Created by DB_BOY on 2018/10/10.
