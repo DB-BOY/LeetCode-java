@@ -6,14 +6,15 @@ import utils.TreeNode;
  * Created by DB_BOY on 2018/10/9.
  * 反转二叉树
  */
-public class InvertBinaryTree226 {
-
-    public static void main(String[] arrays) {
-        /*
+ /*
                 1
                3  2
             31  21 22
          */
+public class InvertBinaryTree226 {
+
+    public static void main(String[] arrays) {
+
         TreeNode t1 = new TreeNode(1);
         TreeNode t1l = new TreeNode(3);
         t1.left = t1l;
@@ -32,7 +33,7 @@ public class InvertBinaryTree226 {
             return null;
         } else if ((root.left == null) && (root.right == null)) {
             return root;
-        } else{
+        } else {
             TreeNode temp = root.left;
             root.left = solution(root.right);
             root.right = solution(temp);
