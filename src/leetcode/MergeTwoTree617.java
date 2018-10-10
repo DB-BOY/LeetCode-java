@@ -1,5 +1,8 @@
 package leetcode;
 
+import utils.Print;
+import utils.TreeNode;
+
 /**
  * Created by DB_BOY on 2018/9/29.
  * 合并二叉树
@@ -42,6 +45,8 @@ public class MergeTwoTree617 {
         t2.right = new TreeNode(3);
         solution(t1, t2);
         print(t1);
+        System.out.println();
+        Print.levelTraverse(t2);
 
 
     }
