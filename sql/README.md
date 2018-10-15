@@ -60,6 +60,26 @@ select t2.Id
  on t1.Temperature <t2.Temperature
  and to_days(t1.Date) = to_days(t2.Date)-1 ;
 ``
+####596.Classes More Than 5 Students
+><https://leetcode-cn.com/problems/classes-more-than-5-students/description/>
+``
+SELECT class from courses group by class having count(distinct student) >= 5;
+``
+####620.Not Boring Movies
+><https://leetcode-cn.com/problems/not-boring-movies/description/>
+``
+select * from cinema where id%2=1 and description <>'boring' order by rating desc;
+``
+####627.Swap Salary
+><https://leetcode-cn.com/problems/swap-salary/description/>
+``
+update salary set sex = if(sex = 'm', 'f','m');
+``
+####595.Big Countries
+><https://leetcode-cn.com/problems/big-countries/description/>
+``
+select name ,population,area from World where area>3000000 or population>25000000;
+``
 
 
 
