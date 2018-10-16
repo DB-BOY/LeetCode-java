@@ -6,7 +6,7 @@ import java.util.Arrays;
  * Created by DB_BOY on 2018/9/29.
  * 反转图像
  */
-public class FlippingAnImage832 {
+public class FlippingAnImage_832 {
     public static void main(String[] args) {
         int[][] a = {{1, 1, 0}, {1, 0, 1}, {0, 0, 0}};
         print(a);

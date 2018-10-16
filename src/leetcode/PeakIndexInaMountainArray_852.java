@@ -4,7 +4,7 @@ package leetcode;
  * Created by DB_BOY on 2018/10/9.
  * 山脉数组的峰顶索引
  */
-public class MountainArray852 {
+public class PeakIndexInaMountainArray_852 {
     public static void main(String[] args) {
         System.out.println(peakIndexInMountainArray(new int[]{0,2,1,0}));
     }

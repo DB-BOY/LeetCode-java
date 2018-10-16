@@ -27,7 +27,7 @@ import utils.TreeNode;
         */
 
 
-public class MergeTwoTree617 {
+public class MergeTwoTree_617 {
 
     private static void print(TreeNode t) {
         if (t==null )return;

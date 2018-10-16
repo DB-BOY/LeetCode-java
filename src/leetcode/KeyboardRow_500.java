@@ -7,7 +7,7 @@ import java.util.Map;
 /**
  * Created by DB_BOY on 2017/5/19.
  */
-public class KeyboardRow500 {
+public class KeyboardRow_500 {
     private static String row1 = "qwertyuiop";
     private static String row2 = "asdfghjkl";
     private static String row3 = "zxcvbnm";

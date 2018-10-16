@@ -15,7 +15,7 @@ import java.util.Arrays;
  * 字符串t由随机字符串s生成，然后在随机位置添加一个字母。
  * 找到在t中添加的字母。
  */
-public class FindDifference389 {
+public class FindDifference_389 {
     public static void main(String[] args) {
         String[] ss = {"abcdefg","aadb","kdkasdf","iadkfak","iwingu","aadb","kdhasdf","iajak","ahdb","kdkdf","iccak","ahggdb","kdkaadf","ieakabcdefgaadbkdkasdfiadkfak"};
         String[] ts = {"vabcdefg","aaadb","dkdkasdf","iagdkfak","iwhingu","ajadb","kdhkasdf","iajlak","ahudb","kdfkdf","icdcak","ahgbgdb","kdkadadf","ieakabcdefgaadbkdkasdfiadkfaka"};

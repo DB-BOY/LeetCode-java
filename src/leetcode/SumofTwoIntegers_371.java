@@ -5,7 +5,7 @@ package leetcode;
  *
  * @author db_boy
  */
-public class SumofTwoIntegers371 {
+public class SumofTwoIntegers_371 {
 
 	public static void main(String[] args) {
 		int a=-1,b=1;

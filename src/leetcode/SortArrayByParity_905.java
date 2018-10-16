@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * Created by DB_BOY on 2018/9/29.
  */
-public class SortArrayByParity905 {
+public class SortArrayByParity_905 {
     public static void main(String[] args) {
         int[] a = {3, 6};
         System.out.println(Arrays.toString(sortArrayByParity(a)));

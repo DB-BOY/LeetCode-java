@@ -13,7 +13,7 @@ package leetcode;
  * 输出：7 -> 0 -> 8
  * 原因：342 + 465 = 807
  */
-public class AddTwoNumbers2 {
+public class AddTwoNumbers_2 {
     public static void main(String[] args) {
 
     }

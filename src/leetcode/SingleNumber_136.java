@@ -10,7 +10,7 @@ import java.util.Arrays;
  *
  * @author db_boy
 */
-public class SingleNumber136 {
+public class SingleNumber_136 {
 
 	public static void main(String[] args) {
 		int[] nums = {5,5,7,8,9,8,7,9,1,1,2,3,3,4,4,2,10};

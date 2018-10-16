@@ -32,7 +32,7 @@ package leetcode;
     Output: "ZY"
  */
 
-public class ExcelSheetColumnTitle168 {
+public class ExcelSheetColumnTitle_168 {
 
     public static void main(String[] arrays){
         System.out.println(solution(701));

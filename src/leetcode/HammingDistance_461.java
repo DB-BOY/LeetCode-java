@@ -24,7 +24,7 @@ package leetcode;
        ↑   ↑
 上面的箭头指出了对应二进制位不同的位置。
 */
-public class HammingDistance461 {
+public class HammingDistance_461 {
     public static void main(String[] args) {
         int x = 1, y = 4;
         System.out.println(solution(x, y));

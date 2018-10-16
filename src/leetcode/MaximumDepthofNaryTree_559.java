@@ -23,7 +23,7 @@ import java.util.List;
     树的深度不会超过 1000。
     树的节点总不会超过 5000。
  */
-public class MaximumDepthofNaryTree559 {
+public class MaximumDepthofNaryTree_559 {
 
     public static void main(String[] arrays) {
 

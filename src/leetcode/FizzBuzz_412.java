@@ -3,7 +3,7 @@ package leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class FizzBuzz412 {
+public class FizzBuzz_412 {
 //	Write a program that outputs the string representation of numbers from 1 to n.
 
 //	But for multiples of three it should output “Fizz” instead of the number

@@ -26,7 +26,7 @@ package leetcode;
  * <p>
  * 解释: 1的二进制表示为1（没有前导零位），其补数为0。所以你需要输出0。
  */
-public class NumberCom476 {
+public class NumberCom_476 {
     public static void main(String[] args) {
         System.out.println(g(5));
     }

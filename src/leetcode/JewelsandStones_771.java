@@ -3,7 +3,7 @@ package leetcode;
 /**
  * Created by DB_BOY on 2018/9/28.
  */
-public class JewelsandStones771 {
+public class JewelsandStones_771 {
     public static void main(String[] args) {
         long start;
         System.out.println(start = System.currentTimeMillis());

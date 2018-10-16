@@ -28,7 +28,7 @@ package leetcode;
     输入: "ZY"
     输出: 701
  */
-public class ExcelSheetColumnNumber171 {
+public class ExcelSheetColumnNumber_171 {
 
     public static void main(String[] arrays){
         System.out.println(solution("ZY"));

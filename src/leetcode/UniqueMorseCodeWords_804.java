@@ -7,7 +7,7 @@ import java.util.Map;
  * Created by DB_BOY on 2018/10/9.
  * 唯一摩尔斯密码词
  */
-public class UniqueMorseCodeWords804 {
+public class UniqueMorseCodeWords_804 {
 
     public static void main(String[] arrays) {
         String [] words = {"gin", "zen", "gig", "msg"};

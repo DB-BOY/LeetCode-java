@@ -30,7 +30,7 @@ import utils.ListNode;
     The given node will not be the tail and it will always be a valid node of the linked list.
     Do not return anything from your function.
  */
-public class DeleteNodeinaLinkedList237 {
+public class DeleteNodeinaLinkedList_237 {
 
     public static void main(String[] arrays) {
         ListNode node = new ListNode(4);

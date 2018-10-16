@@ -25,7 +25,7 @@ import java.util.Map;
  *    一次遍历，将元素放入map中，同时找到与当前元素之和，等于目标值的元素。
  *
  */
-public class AddSum1 {
+public class TwoSum_1 {
 
     public static void main(String[] args) {
         int[] nums = {2, 7, 11, 15};

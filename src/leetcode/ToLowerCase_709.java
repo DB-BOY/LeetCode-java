@@ -3,7 +3,7 @@ package leetcode;
 /**
  * Created by DB_BOY on 2018/9/28.
  */
-public class ToLowerCase709 {
+public class ToLowerCase_709 {
     public static void main(String[] args) {
         String s = "hellO";
         System.out.println(toLowerCase(s));

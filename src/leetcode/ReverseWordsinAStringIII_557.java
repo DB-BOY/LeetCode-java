@@ -12,7 +12,7 @@ package leetcode;
 输出: "s'teL ekat edoCteeL tsetnoc"
 注意：在字符串中，每个单词由单个空格分隔，并且字符串中不会有任何额外的空格。
  */
-public class ReverseWordsinAStringIII557 {
+public class ReverseWordsinAStringIII_557 {
 
     public static void main(String[] arrays) {
         System.out.println(solution("Let's take LeetCode contest"));

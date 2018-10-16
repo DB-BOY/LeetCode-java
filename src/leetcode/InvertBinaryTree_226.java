@@ -11,7 +11,7 @@ import utils.TreeNode;
                3  2
             31  21 22
          */
-public class InvertBinaryTree226 {
+public class InvertBinaryTree_226 {
 
     public static void main(String[] arrays) {
 

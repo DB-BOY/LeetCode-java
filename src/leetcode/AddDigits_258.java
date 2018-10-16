@@ -36,7 +36,7 @@ package leetcode;
  *
  * @author db_boy
  */
-public class AddDigits258 {
+public class AddDigits_258 {
 
 	public static void main(String[] args) {
 		int num = 98;

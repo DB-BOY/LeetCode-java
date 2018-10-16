@@ -3,7 +3,7 @@ package leetcode;
 /**
  * Created by DB_BOY on 2018/10/14.
  */
-public class LemonadeChange860 {
+public class LemonadeChange_860 {
 
     public static void main(String[] arrays) {
         System.out.println(solution(new int[]{5, 5, 10, 20}));

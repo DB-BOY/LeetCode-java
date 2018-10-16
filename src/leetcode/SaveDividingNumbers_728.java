@@ -24,7 +24,7 @@ import java.util.List;
 
         每个输入参数的边界满足 1 <= left <= right <= 10000。
  */
-public class SaveDividingNumbers728 {
+public class SaveDividingNumbers_728 {
 
     public static void main(String[] arrays) {
         System.out.println(solution(300, 708));

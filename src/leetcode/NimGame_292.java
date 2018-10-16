@@ -1,6 +1,6 @@
 package leetcode;
 
-public class NimGame292 {
+public class NimGame_292 {
 
 	public static void main(String[] args) {
 
