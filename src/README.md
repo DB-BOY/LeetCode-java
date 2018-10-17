@@ -1,4 +1,3 @@
-java
 |题号|题目|LeetCode|Gitee|
 |------|------|------|------|
 |1|Two Sum|[leetcode](https://leetcode.com/problems/two-sum)|[gitee](leetcode/TwoSum_1.java)|
