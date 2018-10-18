@@ -23,10 +23,19 @@ package leetcode;
  */
 public class ReverseInteger_7 {
     public static void main(String[] args) {
-
+        System.out.println(reverse(1534236469));
     }
 
     public static int reverse(int x) {
-        return 0;
+        if (x > Integer.MAX_VALUE || x < Integer.MIN_VALUE) return 0;
+        if (x == 0) return 0;
+        int tmp = x;
+        long result = 0;
+        while (tmp != 0) {
+            result = result * 10 + tmp % 10;
+            tmp = tmp / 10;
+        }
+
+        return (int) result == result ? (int) result : 0;
     }
 }
