@@ -1,5 +1,5 @@
 ## 数据库相关
-###Easy
+### Easy
 #### 175. Combine Two Tables
 ><https://leetcode.com/problems/combine-two-tables/#/description>
 	
