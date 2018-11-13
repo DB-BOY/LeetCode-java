@@ -4,7 +4,9 @@
 |2|Add Two Numbers|[leetcode](https://leetcode.com/problems/add-two-numbers)|[code](leetcode/AddTwoNumbers_2.java)|
 |7|Reverse Integer|[leetcode](https://leetcode.com/problems/reverse-integer)|[code](leetcode/ReverseInteger_7.java)|
 |15|3Sum|[leetcode](https://leetcode.com/problems/3sum)|[code](leetcode/Sum3_15.java)|
+|27|Remove Element|[leetcode](https://leetcode.com/problems/remove-element)|[code](leetcode/RemoveElement_27.java)|
 |104|Maximum Depth of Binary Tree|[leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[code](leetcode/MaximumDepthofBinaryTree_104.java)|
+|118|Pascal's Triangle|[leetcode](https://leetcode.com/problems/pascals-triangle)|[code](leetcode/PascalsTriangle_118.java)|
 |121|Best Time to Buy and Sell Stock|[leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[code](leetcode/BestTimetoBuyandSellStock_121.java)|
 |122|Best Time to Buy and Sell Stock II|[leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[code](leetcode/BestTimetoBuyandSellStockII_122.java)|
 |136|Single Number|[leetcode](https://leetcode.com/problems/single-number)|[code](leetcode/SingleNumber_136.java)|
@@ -41,6 +43,7 @@
 |709|To Lower Case|[leetcode](https://leetcode.com/problems/to-lower-case)|[code](leetcode/ToLowerCase_709.java)|
 |717|1-bit and 2-bit Characters|[leetcode](https://leetcode.com/problems/1-bit-and-2-bit-characters)|[code](leetcode/OneBitCharacter_717.java)|
 |728|Self Dividing Numbers|[leetcode](https://leetcode.com/problems/self-dividing-numbers)|[code](leetcode/SaveDividingNumbers_728.java)|
+|746|Min Cost Climbing Stairs|[leetcode](https://leetcode.com/problems/min-cost-climbing-stairs)|[code](leetcode/MinCostClimbingStairs_746.java)|
 |766|Toeplitz Matrix|[leetcode](https://leetcode.com/problems/toeplitz-matrix)|[code](leetcode/ToeplitzMatrix_766.java)|
 |771|Jewels and Stones|[leetcode](https://leetcode.com/problems/jewels-and-stones)|[code](leetcode/JewelsandStones_771.java)|
 |804|Unique Morse Code Words|[leetcode](https://leetcode.com/problems/unique-morse-code-words)|[code](leetcode/UniqueMorseCodeWords_804.java)|
