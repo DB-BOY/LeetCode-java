@@ -6,6 +6,7 @@ import java.util.List;
 /**
  * Created by DB_BOY on 2018/11/12.
  */
+//杨辉三角
 public class PascalsTriangle_118 {
 
     public static void main(String[] arrays) {
