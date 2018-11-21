@@ -4,11 +4,17 @@
 |2|Add Two Numbers|[leetcode](https://leetcode.com/problems/add-two-numbers)|[code](leetcode/AddTwoNumbers_2.java)|
 |7|Reverse Integer|[leetcode](https://leetcode.com/problems/reverse-integer)|[code](leetcode/ReverseInteger_7.java)|
 |15|3Sum|[leetcode](https://leetcode.com/problems/3sum)|[code](leetcode/Sum3_15.java)|
+|26|Remove Duplicates from Sorted Array|[leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[code](leetcode/RemoveDuplicatesfromSortedArray_26.java)|
 |27|Remove Element|[leetcode](https://leetcode.com/problems/remove-element)|[code](leetcode/RemoveElement_27.java)|
+|53|Maximum Subarray|[leetcode](https://leetcode.com/problems/maximum-subarray)|[code](leetcode/MaximumSubarry_53.java)|
+|66|Plus One|[leetcode](https://leetcode.com/problems/plus-one)|[code](leetcode/PlusOne_66.java)|
+|88|Merge Sorted Array|[leetcode](https://leetcode.com/problems/merge-sorted-array)|[code](leetcode/MergeSortArray_88.java)|
 |104|Maximum Depth of Binary Tree|[leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[code](leetcode/MaximumDepthofBinaryTree_104.java)|
 |118|Pascal's Triangle|[leetcode](https://leetcode.com/problems/pascals-triangle)|[code](leetcode/PascalsTriangle_118.java)|
+|119|Pascal's Triangle II|[leetcode](https://leetcode.com/problems/pascals-triangle-ii)|[code](leetcode/PascalsTriangleII_119.java)|
 |121|Best Time to Buy and Sell Stock|[leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[code](leetcode/BestTimetoBuyandSellStock_121.java)|
 |122|Best Time to Buy and Sell Stock II|[leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[code](leetcode/BestTimetoBuyandSellStockII_122.java)|
+|135|Candy|[leetcode](https://leetcode.com/problems/candy)|[code](leetcode/SearchInsertPosition_135.java)|
 |136|Single Number|[leetcode](https://leetcode.com/problems/single-number)|[code](leetcode/SingleNumber_136.java)|
 |167|Two Sum II - Input array is sorted|[leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[code](leetcode/TwoSumII_167.java)|
 |168|Excel Sheet Column Title|[leetcode](https://leetcode.com/problems/excel-sheet-column-title)|[code](leetcode/ExcelSheetColumnTitle_168.java)|
@@ -16,6 +22,7 @@
 |171|[Excel Sheet Column Number](https://my.oschina.net/DBboy/blog/2243745)|[leetcode](https://leetcode.com/problems/excel-sheet-column-number)|[code](leetcode/ExcelSheetColumnNumber_171.java)|
 |191|Number of 1 Bits|[leetcode](https://leetcode.com/problems/number-of-1-bits)|[code](leetcode/Numberof1bits_191.java)|
 |217|Contains Duplicate|[leetcode](https://leetcode.com/problems/contains-duplicate)|[code](leetcode/ContainsDuplicate_217.java)|
+|219|Contains Duplicate II|[leetcode](https://leetcode.com/problems/contains-duplicate-ii)|[code](leetcode/ContainsDuplicate_219.java)|
 |226|Invert Binary Tree|[leetcode](https://leetcode.com/problems/invert-binary-tree)|[code](leetcode/InvertBinaryTree_226.java)|
 |237|[Delete Node in a Linked List](https://my.oschina.net/DBboy/blog/2243950)|[leetcode](https://leetcode.com/problems/delete-node-in-a-linked-list)|[code](leetcode/DeleteNodeinaLinkedList_237.java)|
 |258|[Add Digits](https://my.oschina.net/DBboy/blog/2247169)|[leetcode](https://leetcode.com/problems/add-digits)|[code](leetcode/AddDigits_258.java)|
@@ -37,21 +44,26 @@
 |590|N-ary Tree Postorder Traversal|[leetcode](https://leetcode.com/problems/n-ary-tree-postorder-traversal)|[code](leetcode/NaryTreepostordertraversal_590.java)|
 |617|Merge Two Binary Trees|[leetcode](https://leetcode.com/problems/merge-two-binary-trees)|[code](leetcode/MergeTwoTree_617.java)|
 |628|Maximum Product of Three Numbers|[leetcode](https://leetcode.com/problems/maximum-product-of-three-numbers)|[code](leetcode/MaximumProductofThreeNumbers_628.java)|
+|643|Maximum Average Subarray I|[leetcode](https://leetcode.com/problems/maximum-average-subarray-i)|[code](leetcode/MaximumAverageSubarrayI_643.java)|
 |657|Robot Return to Origin|[leetcode](https://leetcode.com/problems/robot-return-to-origin)|[code](leetcode/RobotReturn2Origin_657.java)|
 |661|Image Smoother|[leetcode](https://leetcode.com/problems/image-smoother)|[code](leetcode/ImageSmoother_661.java)|
 |697|Degree of an Array|[leetcode](https://leetcode.com/problems/degree-of-an-array)|[code](leetcode/DegreeofanArray_697.java)|
 |709|To Lower Case|[leetcode](https://leetcode.com/problems/to-lower-case)|[code](leetcode/ToLowerCase_709.java)|
 |717|1-bit and 2-bit Characters|[leetcode](https://leetcode.com/problems/1-bit-and-2-bit-characters)|[code](leetcode/OneBitCharacter_717.java)|
+|724|Find Pivot Index|[leetcode](https://leetcode.com/problems/find-pivot-index)|[code](leetcode/FindPivotIndex_724.java)|
 |728|Self Dividing Numbers|[leetcode](https://leetcode.com/problems/self-dividing-numbers)|[code](leetcode/SaveDividingNumbers_728.java)|
 |746|Min Cost Climbing Stairs|[leetcode](https://leetcode.com/problems/min-cost-climbing-stairs)|[code](leetcode/MinCostClimbingStairs_746.java)|
+|747|Largest Number At Least Twice of Others|[leetcode](https://leetcode.com/problems/largest-number-at-least-twice-of-others)|[code](leetcode/LargestNumberAtLeastTwiceofOthers_747.java)|
 |766|Toeplitz Matrix|[leetcode](https://leetcode.com/problems/toeplitz-matrix)|[code](leetcode/ToeplitzMatrix_766.java)|
 |771|Jewels and Stones|[leetcode](https://leetcode.com/problems/jewels-and-stones)|[code](leetcode/JewelsandStones_771.java)|
 |804|Unique Morse Code Words|[leetcode](https://leetcode.com/problems/unique-morse-code-words)|[code](leetcode/UniqueMorseCodeWords_804.java)|
 |830|Positions of Large Groups|[leetcode](https://leetcode.com/problems/positions-of-large-groups)|[code](leetcode/PositionofLargeGroups_830.java)|
 |832|Flipping an Image|[leetcode](https://leetcode.com/problems/flipping-an-image)|[code](leetcode/FlippingAnImage_832.java)|
+|849|Maximize Distance to Closest Person|[leetcode](https://leetcode.com/problems/maximize-distance-to-closest-person)|[code](leetcode/MaxinuzeDistancetoClosestPerson_849.java)|
 |852|Peak Index in a Mountain Array|[leetcode](https://leetcode.com/problems/peak-index-in-a-mountain-array)|[code](leetcode/PeakIndexInaMountainArray_852.java)|
 |860|Lemonade Change|[leetcode](https://leetcode.com/problems/lemonade-change)|[code](leetcode/LemonadeChange_860.java)|
 |867|Transpose Matrix|[leetcode](https://leetcode.com/problems/transpose-matrix)|[code](leetcode/TramsposeMatrix_867.java)|
 |883|Projection Area of 3D Shapes|[leetcode](https://leetcode.com/problems/projection-area-of-3d-shapes)|[code](leetcode/ProjectionAreaof3DShapes_883.java)|
 |896|Monotonic Array|[leetcode](https://leetcode.com/problems/monotonic-array)|[code](leetcode/MonotonicArray_896.java)|
 |905|Sort Array By Parity|[leetcode](https://leetcode.com/problems/sort-array-by-parity)|[code](leetcode/SortArrayByParity_905.java)|
+|941|Valid Mountain Array|[leetcode](https://leetcode.com/problems/valid-mountain-array)|[code](leetcode/ValidMountainArray_941.java)|
